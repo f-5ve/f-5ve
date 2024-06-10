@@ -1,10 +1,9 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
+[![Discord Presence](https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true)](https://discord.com/users/980405065896574986)
 <div align="center" id="header">
     <h1>
         <a href="https://bio.F5ve.lol/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
             <img src="https://readme-typing-svg.demolab.com?font=Varela+Round+&pause=1000&color=36E5F7&random=false&width=435&lines=Backend+Developer;UI+Designer" alt="Typing SVG" /></a>
         </a>
-        [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
         </a>
     </h1>
 </div>

@@ -4,7 +4,7 @@
             <img src="https://readme-typing-svg.demolab.com?font=Varela+Round+&pause=1000&color=36E5F7&random=false&width=435&lines=Backend+Developer;UI+Designer" alt="Typing SVG" /></a>
         </a>
         <br>
-        [![Discord Presence]https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not up to anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true
+        [![Discord Presence](https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not up to anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true)
         </a>
     </h1>
 </div>

@@ -1,18 +1,65 @@
-![Welcome](https://github.com/f-5ve/f-5ve/assets/169186185/aaf2f865-b843-46a7-9a47-b72d32c88543)
+<div align="center" id="header">
+    <h1>
+        <a href="https://F5ve.lol/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
+            <img src="https://readme-typing-svg.demolab.com?font=Varela+Round+&pause=1000&color=36E5F7&random=false&width=435&lines=Backend+Developer;UI+Designer" alt="Typing SVG" /></a>
+        </a>
+        <br>
+        <a href="https://links.F5ve.lol/discord">
+            <img src="https://api.F5ve.lol/status?fetch=true" alt="Discord Status"/>
+        </a>
+    </h1>
+</div>
 
-<h1 align="center">Hi 👋, I'm Snow</h1>
-<h3 align="center">A passionate frontend developer & designer</h3>
+<div align="center" id="socials">
+    <h3>
+        S O C I A L S
+    </h3>
+    <a href="https://links.F5ve.lol/discord">
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="25" width="25"/>
+    </a>
+    <a href="https://links.F5ve.lol/telegram">
+        <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="25" width="25"/>
+    </a>
 
-- 👨‍💻 All of my works are available at [https://www.behance.net/5p_n](https://www.behance.net/5p_n)
+</div>
 
-- 📫 How to reach me **fivedeisgns@gmail.com**
+<div align="center" id="languages">
+    <h3>
+        L A N G U A G E S
+    </h3>
+    <a href="https://learn.microsoft.com/dotnet/csharp">
+        <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://www.w3.org/css">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://www.w3.org/html">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://java.com">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://developer.mozilla.org/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://mysql.com">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="25" width="25"></a>
+    <a href="https://nodejs.org">
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://python.org">
+        <img src="https://skillicons.dev/icons?i=py&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://redis.io">
+        <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="25" width="25"></a>
+    </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.behance.net/5p_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="5p_n" height="30" width="40" /></a>
-<a href="https://discord.gg/F5ve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="F5ve" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> </p>
-
+<div align="center" id="stats">
+    <a href="https://F5ve.lol/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
+        <img src="https://github-readme-stats.vercel.app/api?username=1337Syntax&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=36BCF7FF&icon_color=05d6f2&ring_color=05d6f2"/>
+    </a>
+</div>

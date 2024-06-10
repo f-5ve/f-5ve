@@ -5,9 +5,8 @@
         </a>
         </a>
     </h1>
-    [![Discord Presence](https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true)](https://discord.com/users/980405065896574986)
 </div>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true)](https://discord.com/users/980405065896574986)
 <div align="center" id="socials">
     <h3>
         S O C I A L S
@@ -18,7 +17,8 @@
     <a href="https://links.F5ve.lol/telegram">
         <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="25" width="25"/>
     </a>
-
+    <a href=[![Discord Presence]>
+        <img src="https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true"/>
 </div>
 
 <div align="center" id="languages">

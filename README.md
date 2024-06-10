@@ -2,8 +2,6 @@
     <h1>
         <a href="https://bio.F5ve.lol/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
             <img src="https://readme-typing-svg.demolab.com?font=Varela+Round+&pause=1000&color=36E5F7&random=false&width=435&lines=Backend+Developer;UI+Designer" alt="Typing SVG" /></a>
-        <a href=[![Discord Presence]>
-            <img src="https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true"/>
         </a>
         </a>
     </h1>

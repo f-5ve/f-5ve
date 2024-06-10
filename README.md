@@ -5,7 +5,7 @@
         </a>
         <br>
         <a href="https://links.F5ve.lol/discord">
-            <img src="https://api.F5ve.lol/status?fetch=true" alt="Discord Status"/>
+            <img src="https://api.syntax.fo/status?fetch=true" alt="Discord Status"/>
         </a>
     </h1>
 </div>

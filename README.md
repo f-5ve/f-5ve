@@ -6,7 +6,6 @@
         </a>
     </h1>
 </div>
-[![Discord Presence](https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true)](https://discord.com/users/980405065896574986)
 <div align="center" id="socials">
     <h3>
         S O C I A L S

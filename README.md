@@ -1,4 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true)](https://discord.com/users/980405065896574986)
 <div align="center" id="header">
     <h1>
         <a href="https://bio.F5ve.lol/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
@@ -6,6 +5,7 @@
         </a>
         </a>
     </h1>
+    [![Discord Presence](https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true)](https://discord.com/users/980405065896574986)
 </div>
 
 <div align="center" id="socials">

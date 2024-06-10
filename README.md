@@ -1,3 +1,4 @@
+https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not up to anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true
 <div align="center" id="header">
     <h1>
         <a href="https://bio.F5ve.lol/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">

@@ -37,9 +37,6 @@
     <a href="https://www.w3.org/html">
         <img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" width="25">
     </a>
-    <a href="https://java.com">
-        <img src="https://skillicons.dev/icons?i=java&theme=dark" height="25" width="25">
-    </a>
     <a href="https://developer.mozilla.org/JavaScript">
         <img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" width="25">
     </a>
@@ -49,14 +46,8 @@
     <a href="https://mysql.com">
         <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="25" width="25">
     </a>
-    <a href="https://nodejs.org">
-        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="25" width="25">
-    </a>
     <a href="https://python.org">
         <img src="https://skillicons.dev/icons?i=py&theme=dark" height="25" width="25">
-    </a>
-    <a href="https://redis.io">
-        <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="25" width="25">
     </a>
 </div>
 

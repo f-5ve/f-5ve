@@ -3,7 +3,7 @@
         <a href="https://bio.F5ve.lol/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
             <img src="https://readme-typing-svg.demolab.com?font=Varela+Round+&pause=1000&color=36E5F7&random=false&width=435&lines=Backend+Developer;UI+Designer;Lua+React+C Sharp" alt="Typing SVG" />
         </a>
-    </h1>
+    </h3>
 </div>
 
 <div align="center" id="socials">
@@ -13,7 +13,7 @@
     <h3>
         S O C I A L S
     </h3>
-    <div>
+    <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
         <a href="https://links.F5ve.lol/discord">
             <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="25" width="25"/>
         </a>
@@ -21,10 +21,9 @@
             <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="25" width="25"/>
         </a>
         <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31thbmjs6yufb374nznibovq7iki">
-          <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31thbmjs6yufb374nznibovq7iki" alt="Data Card for Spotify">
+            <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31thbmjs6yufb374nznibovq7iki" alt="Data Card for Spotify">
         </a>
     </div>
-    </a>
 </div>
 
 <div align="center" id="languages">

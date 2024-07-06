@@ -10,6 +10,9 @@
     <a href="[![Discord Presence]]">
         <img src="https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true"/>
     </a>
+     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31thbmjs6yufb374nznibovq7iki">
+            <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31thbmjs6yufb374nznibovq7iki" alt="Data Card for Spotify">
+    </a>
     <h3>
         S O C I A L S
     </h3>
@@ -19,9 +22,6 @@
         </a>
         <a href="https://links.F5ve.lol/telegram">
             <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="25" width="25"/>
-        </a>
-        <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31thbmjs6yufb374nznibovq7iki">
-            <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31thbmjs6yufb374nznibovq7iki" alt="Data Card for Spotify">
         </a>
     </div>
 </div>

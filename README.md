@@ -1,17 +1,17 @@
 <div align="center" id="header">
     <h3>
         <a href="https://bio.F5ve.lol/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
-            <img src="https://readme-typing-svg.demolab.com?font=Varela+Round+&pause=1000&color=36E5F7&random=false&width=435&lines=Backend+Developer;UI+Designer;HTML+React+Next.js" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.demolab.com?font=Varela+Round+&pause=1000&color=36E5F7&random=false&width=435&lines=Developer;Graphics+Designer;HTML+React+Next.js" alt="Typing SVG" />
         </a>
     </h3>
 </div>
 
 <div align="center" id="socials">
     <a href="[![Discord Presence]]">
-        <img src="https://lanyard.cnrad.dev/api/980405065896574986?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true"/>
+        <img src="https://lanyard.cnrad.dev/api/1011167477687918642?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true"/>
     </a>
-     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31thbmjs6yufb374nznibovq7iki">
-            <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31thbmjs6yufb374nznibovq7iki" alt="Data Card for Spotify">
+     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313wf55jijfqrydnmsrviu6cyhbu">
+            <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313wf55jijfqrydnmsrviu6cyhbu" alt="Data Card for Spotify">
     </a>
     <h3>
         S O C I A L S

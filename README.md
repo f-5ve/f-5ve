@@ -8,7 +8,7 @@
 
 <div align="center" id="socials">
     <a href="[![Discord Presence]]">
-        <img src="https://lanyard.cnrad.dev/api/1011167477687918642?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true"/>
+        <img src="https://lanyard.cnrad.dev/api/replaceme?borderRadius=5px&amp;idleMessage=not%20up%20to%20anything&amp;bg=a&amp;animated=true&amp;showDisplayName=true"/>
     </a>
      <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313wf55jijfqrydnmsrviu6cyhbu">
             <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313wf55jijfqrydnmsrviu6cyhbu" alt="Data Card for Spotify">
